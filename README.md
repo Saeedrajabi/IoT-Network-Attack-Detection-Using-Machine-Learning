@@ -1,4 +1,4 @@
-# 🚀 IoT Network Attack Detection Using Machine Learning 🚀
+# IoT Network Attack Detection Using Machine Learning 
 
 This repository contains comprehensive implementations and analyses of various Machine Learning models aimed at detecting malicious activities on IoT networks. With an extensive dataset of 257,000 network traffic samples, the models explored in this project showcase impressive results in classifying network traffic as either malicious or benign.
 
